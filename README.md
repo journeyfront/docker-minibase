@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/journeyfront/minibase/status "Docker Repository on Quay")](https://quay.io/repository/journeyfront/minibase)
+
 minibase(8) -- alpine linux with dumb-init
 ==========================================
 
